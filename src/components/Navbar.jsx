@@ -5,7 +5,10 @@ import { Link } from 'react-router-dom';
 import { logo } from '../utils/constants';
 
 const Navbar = () => (
-  <Stack>
+  <Stack
+    direction="row" 
+     
+  >
     
   </Stack>
 )
